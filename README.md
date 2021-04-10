@@ -1,0 +1,2 @@
+# 100m-men-restfulapi
+GET,POST,PATCH,DELETE METHOD . RESTFUL API .
